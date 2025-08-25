@@ -1,6 +1,7 @@
 # 📘 Python Learning Roadmap<br>
 ### <i>(For Beginners & Aspiring DS/AI Students)</i> 
 
+
 This roadmap is paired with a curated collection of Python books (linked at the end) and is designed for:
 
 - 🔵 **Complete Beginners** (non-programmers, non-CS background, or those new to Python even if they know other languages).  
