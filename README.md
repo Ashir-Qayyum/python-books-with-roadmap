@@ -1,5 +1,5 @@
 <div align="left">
-  <h3>Python Learning Roadmap</h3>
+  <h1>Python Learning Roadmap</h1>
   <p style="margin-top: -5px;"><em>(For Beginners & Aspiring DS/AI Students)</em></p>
 </div>
 
