@@ -36,7 +36,7 @@ It is a **Python-focused study plan**, with two tracks:
 
 ---
 
-### Step 3: Strengthen Theory (Optional)  
+### Step 3: Strengthen Theory (Optional but Recommended)  
 **Book:** [*Think Python* (by Allen Downey)](https://drive.google.com/file/d/1HFs5zDgRUlEBWGJe93hbObagLBmPqQQN/view?usp=drive_link)  
 **Why:** Builds deeper CS understanding (recursion, OOP, algorithms).  
 
