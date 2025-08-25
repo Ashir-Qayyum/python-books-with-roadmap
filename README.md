@@ -1,5 +1,5 @@
 # 📘 Python Learning Roadmap
-##  (For Beginners & Aspiring DS/AI Students) 
+##(For Beginners & Aspiring DS/AI Students) 
 
 This roadmap is paired with a curated collection of Python books (linked at the end) and is designed for:
 
