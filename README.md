@@ -1,7 +1,7 @@
 <div align="left">
-  <p style="font-size: 2em; font-weight: bold; border-bottom: none; padding-bottom: 0px; margin-bottom: 5px;">
+  <h1 style="font-size: 2em; font-weight: bold; border-bottom: none; padding-bottom: 0px; margin-bottom: 5px;">
     Python Learning Roadmap
-  </p>
+  </h1>
   <p>
     <em>(For Beginners & Aspiring DS/AI Students)</em>
   </p>
