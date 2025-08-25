@@ -1,11 +1,5 @@
-<div align="left">
-  <h1 style="font-size: 2em; font-weight: bold; border-bottom: none; padding-bottom: 0px; margin-bottom: 5px;">
-    Python Learning Roadmap
-  </h1>
-  <p>
-    <em>(For Beginners & Aspiring DS/AI Students)</em>
-  </p>
-</div>
+# 📘 Python Learning Roadmap<br>
+##(For Beginners & Aspiring DS/AI Students) 
 
 This roadmap is paired with a curated collection of Python books (linked at the end) and is designed for:
 
