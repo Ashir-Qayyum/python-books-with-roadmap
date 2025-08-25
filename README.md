@@ -47,7 +47,7 @@ It is a **Python-focused study plan**, with two tracks:
 
 ### Step 4: Transition to Data Science  
 **Book (Recommended):** *Python Data Science Handbook* (by Jake VanderPlas)  
-**Alternative:** *Python for Data Analysis* (Wes McKinney) [Read Online]( https://wesmckinney.com/book/)
+**Alternative:** *Python for Data Analysis* (Wes McKinney) [Read Online]( https://wesmckinney.com/book/)<br>
 **Why:** Learn pandas, NumPy, matplotlib for data handling & visualization.  
 
 **Tasks:**  
