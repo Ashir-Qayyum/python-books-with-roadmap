@@ -16,7 +16,7 @@ It is a **Python-focused study plan**, with two tracks:
 ## 📌 Part 1: General Programming Roadmap (For Any Beginner)  
 
 ### Step 1: Learn Python Basics  
-**Book:** *Python Crash Course* (by Eric Matthes)  
+**Book:** [*Python Crash Course* (by Eric Matthes)](https://drive.google.com/file/d/1ATO1qG2JKEyktWFOE7gMSM-5ViHJ1VqO/view?usp=drive_link)  
 **Why:** Beginner-friendly, project-based learning.  
 
 **Tasks:**  
@@ -26,7 +26,7 @@ It is a **Python-focused study plan**, with two tracks:
 ---
 
 ### Step 2: Apply Python in the Real World  
-**Book:** *Automate the Boring Stuff with Python* (by Al Sweigart)  
+**Book:** [*Automate the Boring Stuff with Python* (by Al Sweigart)](https://drive.google.com/file/d/1-J5XUeXRh6-TiqBkUow1s9uRnisDz2uc/view?usp=drive_link)  
 **Why:** Learn how to use Python for productivity & automation.  
 
 **Tasks:**  
@@ -37,7 +37,7 @@ It is a **Python-focused study plan**, with two tracks:
 ---
 
 ### Step 3: Strengthen Theory (Optional)  
-**Book:** *Think Python* (by Allen Downey)  
+**Book:** [*Think Python* (by Allen Downey)](https://drive.google.com/file/d/1HFs5zDgRUlEBWGJe93hbObagLBmPqQQN/view?usp=drive_link)  
 **Why:** Builds deeper CS understanding (recursion, OOP, algorithms).  
 
 **Use Case:** Recommended if you want to strengthen programming logic, or if preparing for technical interviews / academic study.  
@@ -47,7 +47,7 @@ It is a **Python-focused study plan**, with two tracks:
 ## 📌 Part 2: Data Science & AI/ML Roadmap (For Master’s Prep)  
 
 ### Step 4: Transition to Data Science  
-**Book (Recommended):** *Python Data Science Handbook* (by Jake VanderPlas)  
+**Book (Recommended):** [*Python Data Science Handbook* (by Jake VanderPlas)](https://drive.google.com/file/d/1CRvclEzEFbE3t_Z2NkvklqGISpj2Lk7r/view?usp=drive_link)  
 **Alternative:** *Python for Data Analysis* (Wes McKinney) [Read Online]( https://wesmckinney.com/book/)<br>
 **Why:** Learn pandas, NumPy, matplotlib for data handling & visualization.  
 
@@ -58,7 +58,7 @@ It is a **Python-focused study plan**, with two tracks:
 ---
 
 ### Step 5: Learn Machine Learning & AI  
-**Book:** *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* (by Aurélien Géron)  
+**Book:** [*Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* (by Aurélien Géron)](https://drive.google.com/file/d/14W9-FV48hZcEhHdNNwevea8ImcJS4Daz/view?usp=drive_link)  
 **Why:** Covers regression, classification, clustering, neural networks.  
 
 **Tasks:**  
