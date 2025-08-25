@@ -6,7 +6,7 @@ This roadmap is paired with a curated collection of Python books (linked at the 
 - 🔵 **Complete Beginners** (non-programmers, non-CS background, or those new to Python but know other languages).  
 - 🔵 **Aspiring Data Science & AI/ML Students** (like engineers preparing for Masters) who want to use Python as their foundation.  
 
-⚠️ Note: This is not a full Data Science/AI course roadmap.<br><br>  
+⚠️ Note: This is not a full Data Science/AI course roadmap.<br>  
 It is a **Python-focused study plan**, with two tracks:  
 - **General Python Programming** for anyone.  
 - **Python for DS/AI Preparation** for those planning to advance into Data Science & AI.
